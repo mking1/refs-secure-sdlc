@@ -2,6 +2,7 @@
 Secure SDLC References
 
 ## Articles
+* https://www.veracode.com/security/software-development-lifecycle
 * https://www.checkmarx.com/2017/02/02/devops-secure-sdlc-devsecops/
 
 ## OWASP
