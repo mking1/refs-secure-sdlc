@@ -15,3 +15,6 @@ Secure SDLC References
 ## Whitepapers
 * https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1700
 
+## Repos
+* https://github.com/SLS-ALL/devops-microcosm
+
